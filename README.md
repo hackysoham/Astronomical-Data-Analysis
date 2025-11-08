@@ -10,8 +10,8 @@ This project focuses on analyzing astronomical data using Python and various mac
 
 ## Project Structure
 
-- `Soham_Labhshetwar_24095052.ipynb`: Jupyter notebook containing the main analysis code
-- `6 class csv.csv`: Dataset file containing astronomical data with features like Temperature, Luminosity, Radius, and Absolute magnitude
+- `Star Classification.ipynb`: Jupyter notebook containing the main analysis code
+- `Data.csv`: Dataset file containing astronomical data with features like Temperature, Luminosity, Radius, and Absolute magnitude
 
 ## Models and Analysis
 
